@@ -1,0 +1,15 @@
+D:\Projects\Screenboard\Screenboard\bin\Debug\Screenboard.exe.config
+D:\Projects\Screenboard\Screenboard\bin\Debug\Screenboard.exe
+D:\Projects\Screenboard\Screenboard\bin\Debug\Screenboard.pdb
+D:\Projects\Screenboard\Screenboard\obj\Debug\Screenboard.csprojAssemblyReference.cache
+D:\Projects\Screenboard\Screenboard\obj\Debug\MainWindow.g.cs
+D:\Projects\Screenboard\Screenboard\obj\Debug\App.g.cs
+D:\Projects\Screenboard\Screenboard\obj\Debug\Screenboard_MarkupCompile.cache
+D:\Projects\Screenboard\Screenboard\obj\Debug\Screenboard_MarkupCompile.lref
+D:\Projects\Screenboard\Screenboard\obj\Debug\MainWindow.baml
+D:\Projects\Screenboard\Screenboard\obj\Debug\Screenboard.g.resources
+D:\Projects\Screenboard\Screenboard\obj\Debug\Screenboard.Properties.Resources.resources
+D:\Projects\Screenboard\Screenboard\obj\Debug\Screenboard.csproj.GenerateResource.cache
+D:\Projects\Screenboard\Screenboard\obj\Debug\Screenboard.csproj.CoreCompileInputs.cache
+D:\Projects\Screenboard\Screenboard\obj\Debug\Screenboard.exe
+D:\Projects\Screenboard\Screenboard\obj\Debug\Screenboard.pdb
